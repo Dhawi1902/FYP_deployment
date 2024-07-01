@@ -20,7 +20,7 @@ Once you have successful to run the code, you probably have your drectories like
 
 from this point you can prompt ChatGPT to complete or adjust the code according to your project.
 
-###example prompt:
+### example prompt:
 i want to deploy my machine learning models using flask, and this is my current directories:
 --deployment
   --static
@@ -69,5 +69,5 @@ this is my base page looks like:
 
 
 
-###Addtitional notes
+### Addtitional notes
 - base.html is basically act as base for all other pages. the navbar used from this method is only in base page. the content of this page is only extension from other html file. 
