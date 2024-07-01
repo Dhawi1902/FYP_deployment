@@ -8,12 +8,17 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHR
 
 Once you have successful to run the code, you probably have your drectories like this:
 --deployment
+
   --static
+  
     --css
     --js
+  
   --template
+  
     --index
     --base
+  
   --app.py
 
 from this point you can prompt ChatGPT to complete or adjust the code according to your project.
