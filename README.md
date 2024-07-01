@@ -7,15 +7,16 @@ github link from the video
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHRSajAyaVRIcXBhN3I5b0ZpbE1nMUhmUF93UXxBQ3Jtc0trZ3RQRS1Ienl1VEJfVHB1a2hoMmxNZ3NXRlpYUUVBczJGSm9EbGhrSTJEM3lsT2ZGa1JCeW9McWNXV2paRThHaFVPX3lCRS1QSkY3bEJ5ZmtoTUdiUUc2ZEt5WTM0Q3JKYlRVYUlITGFJcF9xc216Zw&q=https%3A%2F%2Fgithub.com%2Fkrishnaik06%2FDeployment-Deep-Learning-Model&v=CSEmUmkfb8Q
 
 Once you have successful to run the code, you probably have your drectories like this:
---direcotries
-  --deployment
-    --static
-      --css
-      --js
-    --template
-      --index
-      --base
-    --app.py
+  --direcotries
+  
+    --deployment
+      --static
+        --css
+        --js
+      --template
+        --index
+        --base
+      --app.py
 
 from this point you can prompt ChatGPT to complete or adjust the code according to your project.
 
